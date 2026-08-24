@@ -1,6 +1,6 @@
 # VPN 一键部署工具（VPN One-Click Deployer）
 
-把「境外服务器 IP + root 密码」一键变成可用的 **Shadowsocks 2022** 翻墙节点。不需要懂 Linux、不需要敲命令。
+把「境外服务器 IP + root 密码」一键变成可用的 **Shadowsocks 2022** 翻墙节点。
 
 ## 功能
 
