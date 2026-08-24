@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+ss_node_*.txt
+qr_*.png
+.DS_Store
+Thumbs.db

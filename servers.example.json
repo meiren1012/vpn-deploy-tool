@@ -1,0 +1,14 @@
+[
+  {
+    "host": "1.2.3.4",
+    "password": "第一台服务器的root密码",
+    "port": 10086,
+    "name": "node-1"
+  },
+  {
+    "host": "5.6.7.8",
+    "password": "第二台服务器的root密码",
+    "port": 10086,
+    "name": "node-2"
+  }
+]
